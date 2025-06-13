@@ -1,0 +1,3 @@
+[[The Stuff Games Are Made Of]]
+
+While Pippin Barr's "Method for Design Materialization" attempts to tell more of a developer's story than traditional version control notes, the act of filtering one's notes through an external design philosophy removes the possibility for recounting a developer's unfiltered and exasperated thoughts at the eleventh hour. The nature of a project's version control is dictated by the project manager(s) who provide guidelines for not only the style of note taking, but also the contents of those notes.
