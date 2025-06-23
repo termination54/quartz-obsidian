@@ -1,0 +1,2 @@
+p115. "We should keep in mind the same cautions for screenshots as photographs—that they “are most usefully treated as representations of aspects of culture; not recordings of whole cultures or of symbols that will have complete or fixed meanings” (Pink 2007:75). Capturing images is not a shortcut for interpretive or analytic work. Photos or screenshots are never simply representations of objective social facts."
+

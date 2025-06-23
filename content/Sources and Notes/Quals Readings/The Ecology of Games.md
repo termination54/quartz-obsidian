@@ -1,0 +1,9 @@
+Salen, Katie. _The Ecology of Games: Connecting Youth, Games, and Learning_. The John D. and Catherine T. Macarthur Foundation Series on Digital Media and Learning. Cambridge, Mass: MIT Press, 2008.
+
+p31: "Microcontrol has well-known cognitive effects. Humans feel their bodies extend only so far as the space over which they have small-scale control, which for most of us is a space quite close to the body. Blind people have the feeling that their bodies extend out to the end of their canes, since the cane extends their space of small-scale control. When people use webcams to water plants in a far away place via the Internet, the feel that their bodies have extended into space - a novel feeling for humans, since it is one unavailable for most of human history. Video games also offer humans a new experience in history, namely [[microcontrol]] over objects in a virtual space. This gives us the feeling that our bodies and minds have extended into this virtual space and that the spaces of the real and the virtual are joined."
+
+![[microcontrol]]
+
+p32: "Video games, under the right circumstances, may well be able to encourage (and actually help players to enact) an 'attitude' or 'stance' similar to the one taken by scientists studying complex systems. This stance involves a sort of 'embodied empathy for a complex system' wherein a person seeks to enter imaginatively into a system, all the while seeing and thinking of it as a system, rather than as a group of local or random events."
+
+p32: "We can go on to ask whether video games could create such empathy for the sorts of complex systems relevant to academic and other domains outside of entertainment (e.g., urban planning, space exploration, or global cooperation among competing societies)."

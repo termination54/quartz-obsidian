@@ -1,0 +1,3 @@
+Merleau-Ponty, Maurice. _Phenomenology of Perception: An Introduction_. London: Routledge, 2002.
+
+p.vii: "Phenomenology is the study of essences; and according to it, all problems amount to finding definitions of essences: the essence of perception, or the essence of consciousness, for example. But phenomenology is also a philosophy which puts essences back into existence, and does not expect to arrive at an understanding of man and the world from any starting point other than that of their 'facticity'."

@@ -1,0 +1,1 @@
+p453. "The flow channel refers to the ideal progression through the experience, where states of anxiety or frustration are avoided. However, challenges that have been mastered repeatedly are prone to boredom, and cannot sustain interest."

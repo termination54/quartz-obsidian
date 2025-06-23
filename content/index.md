@@ -1,5 +1,5 @@
 ---
-title: Thesis Vectors
+title: Introduction
 ---
 - [[Examining Gameplay Gardens]]  <---
 - [[Casual Examinations of Early 2000s Games]]
@@ -15,15 +15,7 @@ title: Thesis Vectors
 Designing with Authenticity
 The Generation of Generation
 
-Investigating jank, where to look for it and how to design to create it.
 
-test
 
-test2
 
-test3
-
-Matt Raddo
-Philip Aegrie
-Garnet Hertz
-Kera Stone Solar Server
+[[Sources]]

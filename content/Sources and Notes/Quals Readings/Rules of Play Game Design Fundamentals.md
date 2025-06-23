@@ -1,0 +1,3 @@
+Katie Salen and Eric Zimmerman. 2003. Rules of Play: Game Design Fundamentals. Cambridge Mass: MIT Press.
+
+p4. "Meaningful play in a game emerges from the relationship between player action and system outcome; it is the process by which a player takes action within the designed system of a game and the system responds to the action. The meaning of an action in a game resides in the relationship between action and outcome."

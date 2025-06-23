@@ -1,0 +1,9 @@
+p274. "Reed Stevens and his collaborators (2008) identified three levels of activity that are worth observing when studying games: In-game, in-room and in-world. Looking to the examples, we might add in-body.
+
+In-game means the things that go on as part of the game interface, for example, at game-mechanical, interactional and narrative levels...
+
+In-room literally means what transpires moment to moment between things and people in the room... Data is usually gathered with participant observation, video or audio recordings, and can be codified quantitatively or qualitatively (Dow, MacIntyre and Mateas, 2008)...
+
+In-body implies bodily states that accompany play—which can be measured with technologies like biosensors, brain-scanners, or eye-trackers—and used as indications of cognitive processes which are not directly observable...
+
+In-world refers to all the elements in real life which somehow touch upon the gameplay or vice versa. Prior knowledge and experiences may influence gameplay strategies, just like gaming may be conducive to learning or reinterpretations of life events."

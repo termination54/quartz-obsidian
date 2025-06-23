@@ -1,0 +1,1 @@
+p53. "Over the years, several writers on the epistemology of practice have been struck by the fact that skillful action often reveals a "knowing more than we can say." they have invented various names for this sort of knowing, and have drawn their examples from different domains of practice."

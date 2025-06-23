@@ -1,0 +1,10 @@
+p76. "As you were sitting on your couch, contemplating playing a game of Overwatch instead of working on a book about the gamer’s brain (just one game, I promise!), didn’t you feel some sort of weight, or knots, in your stomach? Maybe this feeling even motivated you to finally work on your task so that this uncomfortable feeling would go away? What about the much more positive feeling you felt once you finished what you had to do? Didn’t it feel just like a “weight was taken off your shoulders”? Neuroscientist Antonio Damasio describes these emotions as being somatic markers forcing your attention on the negative (or positive) outcome that may occur following a certain behavior (Damasio 1994). Somatic markers, therefore, lead you to reject those options with negative outcomes so you can make the right decision for longer-term benefits. Admittedly, it doesn’t work all the time because we do not avoid all bad choices, even when we clearly feel these somatic markers pounding."
+
+p80 - 81. "• Emotion serves motivation, it guides us and (hopefully) keeps us alive.
+	• Emotion can enhance cognition by raising our awareness, sharpening our focus, and by making us react swiftly to certain situations, especially dangerous ones.
+	• Emotion can also impair reasoning by influencing our perception of a situation, our cognition, or our behavior."
+	• Cognition can influence emotion—for example, through our appraisal of a situation. 
+	• Emotion can impair cognition by influencing our perception of a situation, our cognition, or our behavior. 
+	• Presentation, expectation, loss aversion, and unfairness are examples of how emotion can bias our appreciation of a situation or our decision-making. 
+	• Emotional arousal can be misattributed; we can wrongly identify the cause of an emotion we feel. 
+	• Emotional arousal is extended to the whole situation not only the element causing the arousal.

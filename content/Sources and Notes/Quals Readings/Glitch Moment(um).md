@@ -1,0 +1,1 @@
+p9. "the potential any glitch has to modulate or productively damage the norms of techno-culture, in the moment at which this potential is first grasped."

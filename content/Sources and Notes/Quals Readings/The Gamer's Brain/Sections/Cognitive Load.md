@@ -1,0 +1,1 @@
+p17. "The workload that your game imposes on your audience’s brain must therefore be carefully weighed (as much as it can be given that there is no precise measurement for cognitive load) and dedicated to the core experience and challenges you want to offer, not in figuring out, for example, menus, controls, or icons (unless this challenge is by design)."

@@ -1,0 +1,5 @@
+Juul, Jesper. _A Casual Revolution: Reinventing Video Games and Their Players_. Vol. 47, 2010. [http://choicereviews.org/review/10.5860/CHOICE.47-6689](http://choicereviews.org/review/10.5860/CHOICE.47-6689).
+
+p34. "‘‘The point is that people play different types of games for different reasons. Expert gamers \[synonym for players] play for the longer term rewards of competition and rankings, whereas casual gamers play for the shorter-term rewards of beauty and distraction.’’"
+
+p112. "This makes mimetic interface games easier to learn than traditional video games, and it adds new types of fun—easier, because players can use their preconceptions of tennis, singing, or playing guitar in order to play the game; fun in new ways, because players can learn from watching each other, because failure becomes an enjoyable spectacle, and because the games thereby become more immediately social than those played with standard game controllers."

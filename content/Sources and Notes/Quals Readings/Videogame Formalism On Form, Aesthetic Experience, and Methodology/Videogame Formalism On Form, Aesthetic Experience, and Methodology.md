@@ -1,0 +1,23 @@
+Mitchell, Alex, and Jasper Van Vught. _Videogame Formalism: On Form, Aesthetic Experience, and Methodology_. Nieuwe Prinsengracht 89 1018 VR Amsterdam Nederland: Amsterdam University Press, 2023. [https://doi.org/10.5117/9789463720663](https://doi.org/10.5117/9789463720663).
+
+p51. "However, unlike these works, the player experience has a clear focus on defamiliarization which functions as both the aesthetic result of, and the methodological departure point for, engaging with the game machine to discover through what combination of game devices and player backgrounds the experience comes about."
+
+p53. "Stylistic elements include (but are not limited to) things like mise-en-scène, cinematography, editing and sound. Narrative elements include (but are not limited to) things like story-plot distinction, causality, and the use of time and space. And finally, rule-based elements include (but are not limited to) things like the different action affordances in the game (level of agency and point of action in the interface), rewards, and punishments. These purposefully broad categories merely function as a quick starting point, drawing our attention to a large set of different game components that can be considered when looking for those devices cueing our aesthetic responses."
+
+p54. "Mitchell (2016) distinguishes three categories of devices capable of triggering a defamiliarizing experience: undermining player expectations for control (such as when the game disrupts the player’s action abilities within or in between scenes), disrupting the chronological flow of game time (such as when the game uses jump cuts to teleport the player into widely different and discontinuous spatial and temporal settings), and blurring the boundaries of form (such as when the game makes use of an unconventional amount of cinematographic conventions or when the game appears to comment on its own form in its level design)."
+
+p54. "They code the player responses into similar categories of control (breaking expectations on interaction, movement, and agency), time (breaking expectations on chronology), and form (breaking expectations on form through metalepsis or self-referentiality)."
+
+p56. "Or, put differently, if you assume that a game will defamiliarize in a highly specific way, you are only going to look into game elements that reinforce that assumption even if the game or game elements under investigation function very differently. This is why it is important to let the game (or, more accurately, our aesthetic experience of the game) determine the analytical focus and only provide broad assumptions and focus-points that can be used to construct a method that is able to tackle the interest raised by a specific game under investigation"
+
+p56. "As they put it themselves in their concluding paragraph, it’s important to acknowledge and further explore “at what point these poetic devices become assimilated into the set of conventions that players expect, possibly losing their effectiveness"”
+
+p58. "As Thompson explains it: “motivation is, in effect, a cue given by the work that prompts us to decide what could justify the inclusion of the device”"
+
+p58. "
+- *compositional motivation* justifies the inclusion of the device that is necessary for the construction of narrative causality, space, or time” (Thompson 1988, 16). 
+- “*realistic motivation* is a type of cue in the work leading us to notions from the real world” (Thompson 1988, 16). 
+- “*Transtextual motivation* involves any appeal to conventions of other artworks” (Thompson 1988, 17) (e.g., genre conventions, previous work by the same actor, or the use of certain techniques such as the cliff-hanger). 
+- “*Artistic motivation*  \[concerns those devices that] contribute to the creation of the work’s abstract, overall shape – its form” (Thompson 1988, 19). This is probably the most difficult type of motivation to define. The artistic motivation is often overshadowed by more prominent other motivations, and it only really becomes noticeable when the other ones are withheld. Generally speaking, abstract stylistic devices that trigger non-straightforward (symbolic) meanings can be considered to have an artistic motivation."
+
+p60. "Or, put differently, while a game’s rule-based, narrative, or stylistic material component can be functioning in or across any of these five categories, that does not make it into a device cueing our aesthetic experience. For material to turn into a device that is of interest to the formalist critic, it needs to function in a defamiliarizing way."

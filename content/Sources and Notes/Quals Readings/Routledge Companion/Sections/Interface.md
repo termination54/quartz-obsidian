@@ -1,0 +1,1 @@
+p35-36. "'In software application design, . . . if the user interface is demonstrably bad, but the functionality is valuable, the product may well succeed, as many major software applications attest. Game design is more brutal'"

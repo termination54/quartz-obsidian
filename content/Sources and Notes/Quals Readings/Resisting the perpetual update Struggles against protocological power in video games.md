@@ -1,0 +1,3 @@
+Švelch, Jan. “Resisting the Perpetual Update: Struggles against Protocological Power in Video Games.” _New Media & Society_ 21, no. 7 (July 2019): 1594–1612. [https://doi.org/10.1177/1461444819828987](https://doi.org/10.1177/1461444819828987).
+
+p2. "It was up to the reader to take into account any information included in the errata and adjust the book accordingly (e.g. by making notes in it) or to keep it in mind as an additional set of instructions of how to engage with the book properly. Notably, analog game publishing also often relies on errata slips and inserts and even adopts the literary terminology by using the very same term"

@@ -1,0 +1,11 @@
+p219. "Human-centered design (HCD) is the process of ensuring that people’s needs are met, that the resulting product is understandable and usable, that it accomplishes the desired tasks, and that the experience of use is positive and enjoyable."
+
+p222 - 223. "The problem definition for the product design will come from this deep understanding of the goals the people are trying to accomplish and the impediments they experience. One of its most critical techniques is to observe the would-be customers in their natural environment, in their normal lives, wherever the product or service being designed will actually be used... This technique is called applied ethnography, a method adapted from the field of anthropology... 
+
+For one, design researchers have the goal of determining human needs that can be addressed through new products. For another, product cycles are driven by schedule and budget, both of which require more rapid assessment than is typical in academic studies that might go on for years."
+
+p226 - 227. "Question everything. I am particularly fond of “stupid” questions. A stupid question asks about things so fundamental that everyone assumes the answer is obvious. But when the question is taken seriously, it often turns out to be profound... What we assume to be obvious is simply the way things have always been done, but now that it is questioned, we don’t actually know the reasons. Quite often the solution to problems is discovered through stupid questions, through questioning the obvious."
+
+p246. "Designing for people with special needs is often called inclusive or universal design. Those names are fitting, for it is often the case that everyone benefits... The best solution to the problem of designing for everyone is flexibility: flexibility in the size of the images on computer screens, in the sizes, heights, and angles of tables and chairs."
+
+p256. "Games, a category in which designers deliberately flout the laws of understandability and usability. Games are meant to be difficult; in some games, part of the challenge is to figure out what is to be done, and how."

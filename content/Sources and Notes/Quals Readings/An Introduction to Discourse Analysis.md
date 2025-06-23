@@ -1,0 +1,2 @@
+p117. "A discourse analysis is based on the details of speech (and gaze and gesture and action) or writing that are arguably deemed relevant in the context and that are relevant to the arguments the analysis is attempting to make. A discourse analysis is not based on all the physical features present, not even on all those that might, in some conceivable context, be meaningful, or might be meaningful in analyses with different purposes."
+

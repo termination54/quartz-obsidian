@@ -1,0 +1,11 @@
+- **Figure/Ground:** The figure/ground principle is illustrated in the below figure: Our mind discriminates between a foreground (the figure), which is usually the center of our attention, and a background (ground). Unless a figure/ground ambiguity is intentional and has a specific purpose in your game, you should try to avoid it in your iconography.
+
+- **Multistability:** Another example of an ambiguity you want to avoid is multistability. Once \[an icon\] is seen, it becomes very difficult to perceive the icon differently, so the designer had to iterate on this icon to avoid such ambiguity.
+
+- **Closure:** Closure is the Gestalt principle stating that we tend to see whole objects, not separated pieces (the whole is greater than the sum of its parts, as the Gestalt motto goes). We have a tendency to close open figures, which explains why negative space works so well in art. It can, of course, also be used in video games.
+
+- **Symmetry:** The principle of symmetry explains that we organize input based on its symmetry. For example, in the below figure, we group similar brackets, “\[” and “\],” and braces (the curly brackets, or accolades), “{” and “},” with each other because of their symmetry. However, we could group them by how close they are to each other, resulting in four groups (i.e., one bracket alone on each end and two groups made of one bracket and one accolade), which is likely not what you perceive here. This principle allows us to perceive three-dimensional elements depicted in two dimensions, such as the drawing of a cube.
+
+- **Similarity:** The principle of similarity refers to the fact that elements that have the same characteristics, such as color or shape, will be grouped together. It’s this principle that helps us understand icons on a map. For example, the blue waves are grouped together to represent water, the brown triangles are grouped together to represent a mountain range, and so on.
+
+- **Proximity:** The principle of proximity states that elements that are closer to one another are perceived as being part of the same group.

@@ -1,0 +1,3 @@
+Chia, Aleena, Brendan Keogh, Dale Leorke, and Benjamin Nicoll. “Platformisation in Game Development.” _Internet Policy Review_ 9, no. 4 (October 21, 2020). [https://doi.org/10.14763/2020.4.1515](https://doi.org/10.14763/2020.4.1515).
+
+p8. "This seal \[(the Nintendo Seal of Approval)] used a combination of cultural, legal, and technological strategies to shift the centre of power in videogame development away from videogame developers and towards the console owners (see O’Donnell 2014, pp. 169-217)."

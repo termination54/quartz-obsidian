@@ -1,0 +1,13 @@
+Apperley, Tom. _Gaming Rhythms. Play and Counterplay from the Situated to the Global_. Institute of Network Cultures, 2010. [https://doi.org/10.25969/MEDIAREP/19268](https://doi.org/10.25969/MEDIAREP/19268).
+
+p41. "The gaming body is formed from entwined—and sometimes contradictory—cyclical and linear rhythms. Each of these rhythms brings new bodies to the aggregated bundle that makes up the gaming body. The analysis of digital game rhythms challenges the concept of digital games as a hermeneutic system, or a closing cybernetic feedback loop that engages only a player and an algorithm. Cyclical rhythms suggest that the physical needs of the gaming body, and the ways that meeting these needs are organized are an important part of the gaming experience. However, the linear rhythms of digital game play, and the sociality of play, indicate that both the machinic rhythm of play itself, and the wider rhythms of everyday life also have significant impacts on the experience of gaming."
+
+p102. "Counterplay is an important concept for digital game scholarship as it does not privilege the compulsive element of play, instead providing an account of play that emphasizes how the relationships between players and digital games oscillates between compulsion and adaptation, training and practice."
+
+p103. "Counterplay explores the material limits of digital games: the actions, actors, artificial intelligence, and objects of the virtual space, and may even involve cataloging a game’s bugs and glitches... Counterplay is not hacking; it simply involves understanding and using the limits of the virtual space of game play."
+
+p107. "This is the goal of the serious game, to channel players’ into a particular understanding of a system, and to persuade them to a particular position on how that system should be changed. This suggests that counterplay offers, and affords, players the opportunity to: deliberately ‘resist’ or ignore coded messages, create aberrant outcomes, and even to change the message."
+
+p110. "Galloway describes the relationship between game artist and the digital games industry as ‘symbiotic’, but to others it is ‘parasitical’. Although it relies on the materials that the industry provides, countergaming suggests that artistic and creative practices have a place in reimagining digital game play’s potentials."
+
+p110. "Second, in-game performances are also closely attuned to existing practices of counterplay, and by conceptualizing the intervention as art, focuses on the creative element of the performance, which otherwise might not be appreciated."

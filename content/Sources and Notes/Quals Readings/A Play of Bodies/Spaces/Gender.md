@@ -1,0 +1,10 @@
+"The history of videogames is enmeshed with the history of computing... in the late 1940s... most computers were literally women... These human computers were commonly women because the work required of them was often seen as clerical and was thus easily gendered as 'women's work...' As the role of digital computing shifted perceptually from a menial number-crunching task to one of significant mathematical importance, however, it shifted from feminized labor to masculinized labor..."
+
+[[A Play of Bodies]]
+
+**Quotes**
+- p215: "As computers became increasingly significant devices through the latter half of the twentieth century, they became entrenched in broader patriarchal structures already inscribed as masculine: the science lab, the math classroom, and, in the home, the son's bedroom rather than the daughter's."
+- p219: "The values of the male hacker (autonomy, configuration, agency, technological virtuosity) became the foundational values of videogames. The videogame 'was slotted into a pre-existing male subculture and took on its masculine face'"
+- p220: "...many nonmale videogame players, even if they play videogames frequently, do not consider themselves to be 'real' gamers or the videogames that they play to be 'real' videogames. Thus, the gamer identity is one not of description but of legitimization and authenticity along predominately gendered lines."
+- p221: "That the study of videogames in many universities still finds an uneasy home between humanities and computer engineering departments indicates the everydayness of these tensions."
+- p227: "Rather than fantasies of empowerment and consequence preferred by the hacker-gamer, these videogames produced by those other than the most empowered members of society - those 'who are not allowed to *not* have a body' - are realities of immanence."
