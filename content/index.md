@@ -12,10 +12,11 @@ title: Introduction
 - [[Janking Design]]  <---
 - [[Schrödinger's Jank]]  <---
 
-Designing with Authenticity
-The Generation of Generation
+[[Game Ideas]]
 
+“[[Jank]]” is an often used term in studying and playing games. Colloquially, the term is used to describe an experience where the outcome of a player’s action in a game does not replicate their expectations.
 
+There is, undoubtedly, a social contract that must be formed before an experience in a game can be classified as "jank" instead of as a glitch, as good/bad design, or as simply outdated. 
 
 
 [[Sources]]
