@@ -14,6 +14,8 @@ title: Introduction
 
 [[Game Ideas]]
 
+[[Personal Notes]]
+
 “[[Jank]]” is an often used term in studying and playing games. M.D. Schmalzer's definition of jank is  [[Janky Controls and Embodied Play|"a player’s perception that a videogame does not behave in the ways that it should."]] Colloquially, the term is used to describe an experience where the outcome of a player’s action in a game does not replicate their expectations. This definition overlaps with common definitions of *glitch*, where a glitch is similarly classified as unexpected behavior of software. Further complicating the definitions of glitch and jank is the notion of software bugs, where [[Debugging game history a critical lexicon|"if... trouble is anticipated, it is thus not classified as a glitch."]]
 
 [[The Game Definition Game|"A game may be an activity confined by rules (Avedon & Sutton-Smith, 1971; Le ́vi-Strauss, 1962/1966; Nachmanovitch, 1990, p. 43), constituted by rules (Suits, 1978), ‘‘a little cosmos of its own’’ brought on by the rules (Riezler, 1941), or a domain of contrived contingency (Malaby, 2007). Some even go so far as to state that a game is its rules (Ellington et al., 1982, p. 9; Parlett, 1999; cf. Hunicke, LeBlanc, & Zubek, 2004)."]] There are many perspectives on the definition of a game, but for the purposes of this paper the term "game" will be defined as a set of rules within a system followed by one or more players.
