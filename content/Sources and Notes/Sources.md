@@ -45,4 +45,5 @@ title: Sources
 - [[The Pyrrhic Victory of Game Studies Assessing the Past, Present, and Future of Interdisciplinary Game Research|41.]] Deterding, Sebastian. “The Pyrrhic Victory of Game Studies: Assessing the Past, Present, and Future of Interdisciplinary Game Research.” _Games and Culture_ 12, no. 6 (September 2017): 521–43. [https://doi.org/10.1177/1555412016665067](https://doi.org/10.1177/1555412016665067).
 - [[The Stuff Games Are Made Of|42.]] Barr, Pippin. _The Stuff Games Are Made Of_. Playful Thinking. Cambridge, Massachusetts: The MIT Press, 2023.
 - [[There Are No Universal Interfaces|43.]] Dalgleish, Mathew. “There Are No Universal Interfaces: How Asymmetrical Roles and Asymmetrical Controllers Can Increase Access Diversity,” no. 07 (2018).
+- [[Questions Over Answers Reflective Game Design|44.]] Khaled, Rilla. “Questions Over Answers: Reflective Game Design.” In _Playful Disruption of Digital Media_, edited by Daniel Cermak-Sassenrath, 3–27. Gaming Media and Social Effects. Singapore: Springer Singapore, 2018. [https://doi.org/10.1007/978-981-10-1891-6_1](https://doi.org/10.1007/978-981-10-1891-6_1).
 
