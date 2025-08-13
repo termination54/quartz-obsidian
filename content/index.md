@@ -12,6 +12,7 @@ title: Introduction
 - [[Janking Design]]  <---
 - [[Schrödinger's Jank]]  <---
 - [[Introducing Unpredictability into Design]] <---
+- [[Bad Design, Shoddy Controls, and the Beauty of Having Your Immersion Broken]]
 
 [[Game Ideas]]
 

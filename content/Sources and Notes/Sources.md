@@ -47,6 +47,7 @@ title: Sources
 - [[There Are No Universal Interfaces|43.]] Dalgleish, Mathew. “There Are No Universal Interfaces: How Asymmetrical Roles and Asymmetrical Controllers Can Increase Access Diversity,” no. 07 (2018).
 - [[Questions Over Answers Reflective Game Design|44.]] Khaled, Rilla. “Questions Over Answers: Reflective Game Design.” In _Playful Disruption of Digital Media_, edited by Daniel Cermak-Sassenrath, 3–27. Gaming Media and Social Effects. Singapore: Springer Singapore, 2018. [https://doi.org/10.1007/978-981-10-1891-6_1](https://doi.org/10.1007/978-981-10-1891-6_1).
 - [[Community-Based Play in Twitch Plays Pokémon|45.]] Max, Mallory. “Community-Based Play in Twitch Plays Pokémon.” ETC Press, 2013.
+- [[Generative Logics and Conceptual Clicks A Case Study of the Method for Design Materialization|45.]] Khaled, R.; Barr, P. Generative Logics and Conceptual Clicks: A Case Study of the Method for Design Materialization. _Design Issues_ **2023**, _39_ (1), 55–69. [https://doi.org/10.1162/desi_a_00706](https://doi.org/10.1162/desi_a_00706)
 
 **MEDIA**
 - Uwos Lab, Twitch Chat Plays FNAF in REAL LIFE, 2024. [https://www.youtube.com/watch?v=RAiVC9GAnBA](https://www.youtube.com/watch?v=RAiVC9GAnBA).

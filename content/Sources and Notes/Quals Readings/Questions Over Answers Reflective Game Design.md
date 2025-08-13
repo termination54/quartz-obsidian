@@ -9,3 +9,7 @@ p5. "Games are highly related to simulations. Both are often used to model syste
 p7. "Games allow players to take the driver’s seat in shaping their own play experiences. Once the game is over, however, the memory of the play experience is what remains."
 
 p11. "Rough edges not conforming to mainstream game design norms or player tastes—potentially innovative or idiosyncratic of the designer—are sanded off lest they turn potential players away."
+
+p15. "*Giving users licence to participate* provides digital scaffolding for bridging from the familiar to the unfamiliar and drawing on playfulness to encourage participation... *Inspiring rich feedback from users* makes evaluation and reflection an inherent part of the design, not merely a step added on at the end."
+
+p21. "Finally, the pervasive stealth learning perspective means that many serious games are designed specifically to obfuscate how play experiences connect to the world: players are not invited to reflect, as this would be too recognisable as learning."
