@@ -6,4 +6,6 @@ p56. "As such, what can often be lacking is engagement with the materiality of m
 
 p56. "Design research has been framed in numerous ways but always foregrounds the following: design knowledge is contextual and tacit, residing somewhere between making things and the things themselves."
 
+p57. "All these efforts could be applied to game design with varying degrees of success, but none account for the fact that to understand a game, we need to play it."
+
 p58. "We have often asked ourselves: why is it that “real-world” game designers can make assertions about game design that in academia we feel we are not allowed to make?"

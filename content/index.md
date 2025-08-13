@@ -7,7 +7,7 @@ title: Introduction
 - [[Autoethnography of Version Control]]  <---
 - [[The Designer's Play Experience]]
 - [[The Storytelling of Video Game Installations]]
-- [[Socializing with Single Player Games]]
+- [[Documenting Games in Games]]
 - [[Conversing with Design]]
 - [[Janking Design]]  <---
 - [[Schrödinger's Jank]]  <---
