@@ -2,19 +2,14 @@
 title: Introduction
 ---
 - [[Examining Gameplay Gardens]]  <---
-- [[Casual Examinations of Early 2000s Games]]
 - [[Conversing with Design]] <--
-- [[Autoethnography of Version Control]]  <---
-- [[The Designer's Play Experience]]
-- [[The Storytelling of Video Game Installations]]
-- [[Documenting Games in Games]]
-- [[Conversing with Design]]
+- [[Documenting Games in Games]] <---
+- [[Conversing with Design]] <---
 - [[Janking Design]]  <---
 - [[Schrödinger's Jank]]  <---
 - [[Introducing Unpredictability into Design]] <---
-- [[Bad Design, Shoddy Controls, and the Beauty of Having Your Immersion Broken]]
 
-[[Game Ideas]]
+[[Game and Section Ideas]]
 
 [[Research Questions and Methodology]]
 
