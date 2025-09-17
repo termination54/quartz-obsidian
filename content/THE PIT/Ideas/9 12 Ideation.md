@@ -1,0 +1,14 @@
+- Organic capture of "jank" moments, but with enough structure to warrant deeper thinking
+	- Existing models are very loose
+- Oftentimes, software modification to enable challenge runs ([[1000 Turn Mario Party Game]]) can lead to other unintended happenings in the gameplay loop, which often adds to the experience. 
+	- Players who are opting-in to these systems through the use of mods tend to be additionally excited when these mods break, which then provide *additional* avenues to design new games.
+- Speedrunning often accelerates the process of discovering new solutions to arbitrary problems created in challenge runs ([[The Sacred Cards]]).
+- Exploring games in emulators can further our ability to design new games, particularly through the use of save states (in essence, giving all players basic TAS).
+- Playing games with bad controllers is important.
+- It's nice to be able to jump straight into a game, but it is also rewarding the learn a non-standard control scheme.
+- The accessibility of free resources and platforms to upload projects is a massive barrier to creating games - the average developer feels the need to develop their project in the lens of a product which substantially increases the scope of any given project.
+	- Develop projects with incredibly small scopes, starting from virtually nothing without using online resources.
+- Faurtis and Shittus
+	- Analyze the verbal games played through callouts (Mage Arena)
+- Games should be bad so that we know people made it.
+- 

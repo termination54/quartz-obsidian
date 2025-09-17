@@ -1,3 +1,5 @@
+Jank as Design Practice
+
 reflective game design rilla khaled
 
 https://persephone.blue/
