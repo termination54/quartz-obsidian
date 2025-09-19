@@ -10,6 +10,9 @@ THE PIT is where one off ideas, explorations, project notes and lamentations wil
 **EXPLORATIONS**
 [[Spectral Tower]]
 [[The Sacred Cards]]
+[[1000 Turn Mario Party Game]]
+[[I Doubled Every Enemy in Dark Souls 2]]
+[[This Mario Challenge Was LITERALLY Impossible]]
 
 **IDEAS**
 [[Challenge Runs]]

@@ -1,0 +1,11 @@
+InfernoPlus, dir. _I Doubled Every Enemy in Dark Souls 2_. 2025. 3:14:19. [https://www.youtube.com/watch?v=vEcrrteGCoY](https://www.youtube.com/watch?v=vEcrrteGCoY).
+
+Bushy, dir. _I Tripled and Randomized Every Enemy in Elden Ring_. 2025. 1:20:23. [https://www.youtube.com/watch?v=ljDxBTrtNlY](https://www.youtube.com/watch?v=ljDxBTrtNlY).
+
+Distortion2, dir. _I Doubled EVERY Enemy in Dark Souls 3... Its Chaos_. 2022. 2:39:24. [https://www.youtube.com/watch?v=txbZKEyL_-s](https://www.youtube.com/watch?v=txbZKEyL_-s).
+
+LilAggy, dir. _So I Doubled Every Single Enemy in Dark Souls... It’s a Nightmare._ 2022. 41:31. [https://www.youtube.com/watch?v=A82yxu2LVQw](https://www.youtube.com/watch?v=A82yxu2LVQw).
+
+The act of doubling every enemy is a popular modification to the *Souls* games, as these games are widely regarded as skill-testing in their base versions. Many challenge runs have been completed in *Elden Ring*, *Dark Souls III*, and *Dark Souls* where the player doubles (or triples) every enemy. However, *Dark Souls II* is an often overlooked title in the *Souls* franchise, with modders frequently ignoring it to develop content for the three aforementioned titles instead (as seen with the "seamless multiplayer" mod being developed for those three before *Dark Souls II*.) As a result of this, InfernoPlus had to have a friend develop a mod specifically for their challenge run as the resource did not exist prior to their interest in playing the game with these modifications.
+
+Similarly to the mod developed for [[1000 Turn Mario Party Game]], InfernoPlus encounters a myriad of unintended behavior as a result of the lack of prior playtesting the mod had received. For instance, the Dragonrider boss early into the game is easily beatable by having it use an attack which causes it to fall off of the ledge in its arena. However, InfernoPlus decided not to use strategies like this during the run, so they pulled levers in the area to remove the ledges in the arena. This lead to the discover that the boss(es) was completely immortal after one of them had been defeated, causing InfernoPlus to have to play the game using a completely different route than originally planned (or, at least, until their friend put out a patch for the mod).
