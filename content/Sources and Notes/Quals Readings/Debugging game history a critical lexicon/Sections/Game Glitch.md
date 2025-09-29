@@ -1,3 +1,5 @@
+pxv. "Computer bugs are deeply embedded disruptions that cause a system to function in error or to fail."
+
 p211. "By contradistinction, the fears of global computing trouble at the turn of the millennium (referred to as “Y2K”) helped further popularize the term software bug—if the trouble is anticipated, it is thus not classified as a glitch. Glitch remains “a precariously vague term, which however captures some of the slipperiness of digital media” (Vanhanen 2001)."
 
 p211. "...synonymous with sudden disruptions—graphic display or sound mistakes, communications errors, failed collision detection, games freezing or crashing, or other malfunctions, often prompted by a particular input combination. Glitches in games can halt gameplay, but in some cases they can lend an unforeseen advantage to players who know how to exploit the situation."
@@ -5,5 +7,7 @@ p211. "...synonymous with sudden disruptions—graphic display or sound mistakes
 p212. "...the common understanding of the glitch is that it has little or nothing to do with operator errors."
 
 p212. "Players could flee from, fight, or capture MissingNo. yet, despite Nintendo’s warnings, several publications provided instructions on how to arrange such an encounter (Bainbridge 2007). Any such glitch will break the illusion of an immersive game world and remind the player of the game’s software and hardware conditions of possibility."
+
+p212. "the glitch plays a pivotal role also in alternative play or counterplay—that is, in exploring ways of playing with the game rather than just playing the game. As Tom Apperley has it, counterplay explores the limits of digital games, including the cataloging and exploiting of bugs and glitches, but without having to code or hack—it does not interfere with software or hardware at any level except that of the user interface."
 
 p213. "A glitch in the game appeared when the blood did not fade away: “If you kept hitting the body of one dead alien over and over, you could paint the ground in layers and layers of alien blood until the framerate slowed to a crawl as the Xbox tried to deal with all these extra layers of blood” (Keogh 2012, 110). Of course, to discover such a software glitch that actually affects the hardware, the player must first indulge in a cruel excess of alien bashing to accidentally discover the material impact such actions can have on the machine. Like the Civilization glitch, this Halo glitch raises interesting questions about these games’ premises and some basic assumptions held by their players."
