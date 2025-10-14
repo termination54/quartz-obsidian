@@ -1,1 +1,2 @@
 Samura1man, dir. _How Fast Can You Softlock EVERY Metroid Game?_ 2025. 9:51. [https://www.youtube.com/watch?v=kX09yqIvgJY](https://www.youtube.com/watch?v=kX09yqIvgJY).
+
